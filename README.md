@@ -14,5 +14,5 @@ Feel free to check out my [DataCamp profile](https://www.datacamp.com/profile/ro
 
 Key lessons:
 - Filtering data by using 'DISTINCT', 'WHERE'
-- Querying through Aggregate functions like 'SUM()', 'AVG()', 'MAX()'
+- Querying through Aggregate functions like <mark>'SUM()', 'AVG()', 'MAX()'</mark>
 - Sorting and limiting results using 'ORDER BY', 'LIMIT' statements
