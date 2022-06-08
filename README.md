@@ -16,3 +16,12 @@ Key lessons:
 - Filtering data by using 'DISTINCT', 'WHERE'
 - Querying through Aggregate functions like SUM(), AVG(), MAX()
 - Sorting and limiting results using 'ORDER BY', 'LIMIT' statements
+
+### 2. Analyzing NYC Public School Test Result Scores
+
+Key lessons:
+- abc
+- def
+- ghi
+
+### 3. 
