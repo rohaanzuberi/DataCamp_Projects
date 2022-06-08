@@ -27,6 +27,8 @@ Key lessons:
 ### 3. When Was the Golden Age of Video Games
 
 Key lessons:
--abc
-def
-ghi
+- abc
+- def
+- ghi
+
+(in progress)
