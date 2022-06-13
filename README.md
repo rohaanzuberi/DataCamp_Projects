@@ -10,7 +10,7 @@ Feel free to check out my [DataCamp profile](https://www.datacamp.com/profile/ro
 
 ## 📊 Guided Projects - SQL
 
-### 1. Analyze International Debt Statistics
+### [Analyze International Debt Statistics](https://github.com/rohaanzuberi/DataCamp_Projects/blob/1a7e5adbe5f8a9035c64971085da32f9a22b4d74/Analyze%20International%20Debt%20Statistics/notebook.ipynb)
 
 Key lessons:
 - Filtering data by using 'DISTINCT', 'WHERE'
