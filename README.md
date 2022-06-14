@@ -27,4 +27,4 @@ Key lessons:
 
 Key lessons:
 - Joining data `'LEFT JOIN'`, `'INNER JOIN'`
-- Intersecting data `'INTERSECT'`
+- Intersecting tables `'INTERSECT'`
